@@ -1,0 +1,13 @@
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\bin\Debug\netcoreapp3.1\Modul4_Kel58.exe
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\bin\Debug\netcoreapp3.1\Modul4_Kel58.deps.json
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\bin\Debug\netcoreapp3.1\Modul4_Kel58.runtimeconfig.json
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\bin\Debug\netcoreapp3.1\Modul4_Kel58.runtimeconfig.dev.json
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\bin\Debug\netcoreapp3.1\Modul4_Kel58.dll
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\bin\Debug\netcoreapp3.1\Modul4_Kel58.pdb
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.csprojAssemblyReference.cache
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.AssemblyInfoInputs.cache
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.AssemblyInfo.cs
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.dll
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.pdb
+D:\KULIAH\Semester 4\PraktikumDKP\project\modul4_kel58\Cshap\Modul4_Kel58\Modul4_Kel58\obj\Debug\netcoreapp3.1\Modul4_Kel58.genruntimeconfig.cache
