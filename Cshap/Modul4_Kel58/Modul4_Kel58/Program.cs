@@ -19,8 +19,7 @@ namespace Modul4_Kel58
         }
         static void Main(string[] args)
         {
-
-            non_return("Praktikan 1 Nouvel Izza Fardana", "Praktikan 2 Muhammad Amri Hakim", " Kelompok 58 ");
+            non_return("Praktikan 1 Nouvel Izza Fardana", "Praktikan 2 Muhammad Amri Hakim", "Kelompok 58 ");
             Console.WriteLine("Ini adalah praktikum shift {0}", return_func(1));
             percobaan2 objek = new percobaan2();
             objek.pembagian(39, 35);

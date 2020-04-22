@@ -9,6 +9,6 @@ class contoh_method:
     #method dengan parameter
     def selesai(self, waktu):
         print("Percobaan akan selesai dalam :")
-        while waktu < 0:
+        while waktu > 0:
             print(waktu)
             waktu -= 1

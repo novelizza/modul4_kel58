@@ -1,4 +1,4 @@
-import module1.py
+import module1
 #Function dengan non return type
 def non_return_func(praktikan1, praktikan2):
     print(f"Selamat Datang di Praktikum DKP 2020 {praktikan1} dan {praktikan2}")
@@ -22,7 +22,13 @@ anonim_func = lambda praktikan1, praktikan2, kelompok: print(f"Ini adalah percob
 #Pemanggilan Fungsi
 non_return_func("Nouvel Izza Fardana", "Muhammad Amri Hakim")
 return_func(2)
-anonim_func("Nouvel Izza Fardana", "Muhammad Amri Hakim", 5)
+anonim_func("Nouvel Izza Fardana", "Muhammad Amri Hakim", 58)
 arbitrary_func("Nouvel Izza", "Fardana", "Muhammad Amri", "Hakim")
 
 p1 = module1.contoh_method("acfa", "amri")
+
+p1.mulai()
+
+p1.selesai(3)
+
+arbitrary_func("Nouvel Izza", "Fardana", "Muhammad Amri", "Hakim")
